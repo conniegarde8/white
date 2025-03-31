@@ -1,0 +1,11 @@
+{
+    "display_name": "顶部信息条 (Top Info Bar)",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "你的名字 & AI Assistant",
+    "version": "1.0.0",
+    "homePage": ""
+}
